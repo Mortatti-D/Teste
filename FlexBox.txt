@@ -1,0 +1,22 @@
+Flexbox -> Quando usamos o display flex, liberamos automaticamente o uso do justfy content....
+
+Funções do Space-between que é uma das variaveis do justify content: A space between quando tiver mais de 2 ou duas divs, elas ficaram sempre coladas na extremidade, e se tiver outras elas irão se alinhar dentro do elemento pai.
+O space Around-> Ele vai manter uma borda menor na lateral das duas extremidades, mas as outras divs que estiverem dentro do elemento, receberão espaçamento iguais. Apenas as duas das pontas terão espaçamento diferente das demais dentro do elemento pai.
+Space Evenly basicamente essa aplicação fara que com todas as divs recebam o mesmo espaçamento, incluindo as duas extremidades.
+
+placeholder serve pra escrever dentro de um botão, tipo email, senha e etccc. Isso no flexbox.
+
+No caso da senha o input não se usa type texte, e sim type password, pq se deixar text a senha fica visível.
+
+o padding dentro da classe, que tem algum texto, aumenta a expessura do texto.
+
+Quando se usa o flex direction no css, caso preciso centralizar algo, não usamos o justify content, usamos o align itens...
+
+Flex WRAP- NO WRAP -> Ele não vai quebrar nada, ele vai continuar como ele está, ele vai seguir em frente
+
+o FLex WRAP -> Passou a largura do container ele quebra e fica na linha de baixo. ELE MANTEM A LARGURA PADRÃO SEMPRE, A LARGURA PADRÃO RELACIONADA A CLASSE ATRIBUIDA
+
+O FLEX WRAP REVERSE -> Ele só inverte a ordem.
+
+ORDER SE APLICA DIRETAMENTE NO ELEMENTO, E NÃO NO ELEMENTO PAI.
+

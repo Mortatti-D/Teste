@@ -1,0 +1,22 @@
+Margin top dentro da classe, serve pra posicionar a frase, descolar das outras classes p cima, p baixo e etccc.
+
+Quando for mudarmos a fonte, importar a family dentro do seletor global...
+
+Flex shrink é basicamente a mesma coisa que o flex grow, a diferença é que ela é pra diminuir. Mas só pode ser aplicada, se o valor for MAIOR do que o do elemento pai.
+
+P multiplicar as divs na linha = div.box*3, caso a linha tenha 2 classes, ficaria. div.box.box1*3
+
+margin ajuda a descolar as divs umas das outras
+
+a medida vh indica que usará 100% da altura, largura disponivel da tela...
+
+
+Short hands, sao aplicar 2 valores pra chegar num valor único p elemento, isso é uma flex flow
+
+No html se usa style pra poder estilizar algo dentro do html. E geralmente style fica dentro do head, abaixo do titulo ou do link pro css.
+
+Class podemos usar quantas vezes quisermos e igualmente, ID é usando só uma vez, pq ele só estilisa um elemento.
+
+Pra estilisar o ID no css, não se usa o . se usa #.
+
+O ID tem preferencia sempre, sempre que estiver conflitando uma classe e um id, vai ser redenzeridado a cor que está no ID, ele vai ter preferencia sempre

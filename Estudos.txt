@@ -1,0 +1,27 @@
+O que é background no css, é como se fosse o plano de fundo.
+Classe usamos . e id #
+Color é a cor do texto, no caso representa a cor do texto dentro do html.
+Padding é o espaçamento de dentro.
+Margin é a margem, espaçamento de fora
+As maneiras de usar o código Css em html: Externo, quando se cria uma acent, interno quando se usa a tag style e inline que nao é recomendado, que se usa apenas na linha.
+
+Seletores no Css: Tags, Id e classes.
+Classe podemos ter mais de 1 no nosso HTML, podemos ter várias classes.
+ID SÓ PODEMOS TER 1 POR PÁGINA, ELE TEM QUE SER ÚNICO
+
+Unidades de medidas, as mais usadas: Px ( píxel), em, rem e %
+O px é como se fosse um pontinho do monitor, exemplo 13 pixels, 13 pontinhos.
+O em é relativo ao pai da div, vamos supor se eu coloco 20 pixel, sao 1 em, se eu coloco 2 em, dai se torna 40 pixels...
+o Rem equivale a 18 px, e 2 equivale a 36... Porém se o elemento pai, no caso o html, for tamanho diferente o rem segue a medida padrão...
+E a % equivale a porcentagem no caso se for 20 px, a % equivale a 10, no caso a metade.
+
+Margem, Padding e Border.
+/* 0 0 0 0 */ Lembre-se de um relógio para entender, O primeiro zero são as partes de cima, margin, border e padding. O segundo zero a parte direita, o terceiro zero, a parte de baixo chamado de button, e o último zero é correspondente a parte esquerda.
+
+Position, fixed e etc...
+Relativo, ele fica relativo a tag "pai" a fundadora. 
+
+Na aula de Background, o backgound-color é o que prevalece. Mas os outros servem pra fazer demais tarefas.
+background gradiente, ele aceita várias cores nele, na página background.
+
+EXEMPLO DE TAG, FICA DENTRO DA DIV...
